@@ -35,6 +35,9 @@ p, li {
 #period-lable-column ul h2 {
 	margin: -20% 0 0 2%;
 }
+#period-lable-column ul :first-child {
+	margin: -15% 0 0 0;
+}
 #period-lable-column ul{
 	margin: 0 0 0 0;
 
@@ -44,7 +47,7 @@ p, li {
 	width: auto;
 	height: auto;
 	margin: 75% 0 75% 0;
-	padding: 5%;
+	padding: 6% 0 6% 0;
 	list-style: none;
 }
 
